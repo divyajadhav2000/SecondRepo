@@ -14,6 +14,7 @@ public class countCharacters {
 		System.out.println("o found "+count+ " times");
 		System.out.println(inputstring.length());
 		System.out.println(inputstring.charAt(2));
+		System.out.println(inputstring.charAt(3));
 	}
 	
 
