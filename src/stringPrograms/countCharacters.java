@@ -15,6 +15,8 @@ public class countCharacters {
 		System.out.println(inputstring.length());
 		System.out.println(inputstring.charAt(2));
 		System.out.println(inputstring.charAt(3));
+		System.out.println(inputstring.charAt(4));
+		
 	}
 	
 
